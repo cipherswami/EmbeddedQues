@@ -29,3 +29,11 @@ body:
       value: |
         Add any extra details here.
       render: text
+
+  - type: markdown
+    attributes:
+      value: "## Thank you for contributing to our project!"
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report.
