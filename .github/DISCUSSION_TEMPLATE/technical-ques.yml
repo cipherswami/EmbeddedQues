@@ -1,38 +1,12 @@
-title: "Submit Your Technical Interview Question"
+title: "Type your question here..."
 body:
-  - type: markdown
-    attributes:
-      value: |
-        ## Submit Your Technical Interview Question
-        Please fill out the details below to contribute a technical interview question. Ensure all required fields are completed.
-
-  - type: input
-    id: question
-    attributes:
-      label: Question
-      description: "Enter the full text of the technical question."
-      placeholder: "Type your question here..."
-    validations:
-      required: true
-
   - type: input
     id: source
     attributes:
       label: Source
-      description: "Provide the source or reference for this question (e.g., book name, website, personal experience)."
-      placeholder: "E.g., 'LeetCode', 'Cracking the Coding Interview', etc."
-    validations:
-      required: true
-
-  - type: dropdown
-    id: difficulty
-    attributes:
-      label: Difficulty Level
-      description: "Select the difficulty level of this question."
-      options:
-        - Easy
-        - Medium
-        - Hard
+      description: "Provide the source of the question."
+      placeholder: "E.g., 'Company name', 'LeetCode', etc."
+      value: "{{ username }}" # Dynamically uses the submitter's GitHub username
     validations:
       required: true
 
@@ -40,19 +14,6 @@ body:
     id: additional-info
     attributes:
       label: Additional Information
-      description: "Provide any additional information, hints, or context for the question if necessary."
-      placeholder: "Add hints, expected output, or use case scenarios here..."
+      placeholder: "Provide any additional information if necessary."
     validations:
       required: false
-
-  - type: checkboxes
-    attributes:
-      label: Tags
-      description: "Select tags that categorize this question (optional)."
-      options:
-        - label: Algorithms
-        - label: Data Structures
-        - label: System Design
-        - label: Coding
-        - label: Problem Solving
-        - label: Other
