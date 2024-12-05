@@ -1,5 +1,5 @@
 # Welcome to EmbeddedQues!  
-A platform to share resources, discuss interview questions, collaborate on projects, and expand knowledge on embedded systems, firmware, and kernel programming.  
+A platform to share resources, discuss interview questions, and expand knowledge on embedded systems, firmware, and kernel programming.  
 
 Join the conversation on [EmbeddedQues Discussions](https://github.com/cipherswami/EmbeddedQues/discussions)!
 
