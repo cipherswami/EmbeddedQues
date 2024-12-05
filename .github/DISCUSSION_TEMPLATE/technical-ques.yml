@@ -1,5 +1,4 @@
 title: ""
-description: Enter Que here
 body:
   - type: input
     id: technical-source
