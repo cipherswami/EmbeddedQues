@@ -3,7 +3,7 @@ A platform to share resources, discuss interview questions, collaborate on proje
 
 Join the conversation on [EmbeddedQues Discussions](https://github.com/cipherswami/EmbeddedQues/discussions)!
 
-## Categories  
+## Categories of discussions  
 1. **General Q&A**: For open queries (Non-Interview Questions).  
    - *Example*: “What’s the role of RTOS in embedded systems?”
 2. **Technical Q&A**: Share and solve technical interview questions related to embedded systems, firmware, and kernel programming.  
