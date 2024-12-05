@@ -1,0 +1,8 @@
+body:
+  - type: textarea
+    id: resources-description
+    attributes:
+      label: "Resource Description"
+      placeholder: "Provide a brief description or summary of the resource."
+    validations:
+      required: true
