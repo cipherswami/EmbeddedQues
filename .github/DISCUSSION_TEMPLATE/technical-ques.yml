@@ -3,7 +3,7 @@ body:
   - type: input
     id: source
     attributes:
-      label: "Source of the question:"
+      label: "Source of the question (Enter NA if not known)"
       placeholder: "'Company Name', 'LeetCode', etc."
     validations:
       required: true
@@ -11,7 +11,7 @@ body:
   - type: textarea
     id: additional-info
     attributes:
-      label: Additional Information
+      label: "Additional Information"
       placeholder: "Provide any additional information if necessary."
     validations:
       required: false
