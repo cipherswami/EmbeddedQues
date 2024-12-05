@@ -6,7 +6,6 @@ body:
       label: Source
       description: "Provide the source of the question."
       placeholder: "E.g., 'Company name', 'LeetCode', etc."
-      value: "{{ username }}" # Dynamically uses the submitter's GitHub username
     validations:
       required: true
 
