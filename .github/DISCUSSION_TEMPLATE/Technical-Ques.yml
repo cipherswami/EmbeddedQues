@@ -1,0 +1,7 @@
+title: "[General] "
+labels: ["technical-ques"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Source: {company name}
