@@ -1,16 +1,16 @@
 title: "Type your question here..."
 body:
   - type: input
-    id: source
+    id: technical-source
     attributes:
       label: "Source of the question"
-      description: Enter 'NA' if not known
-      placeholder: "'Company Name', 'LeetCode', etc."
+      description: "Example: Company Name, LeetCode, etc."
+      placeholder: Enter 'NA' if not known
     validations:
       required: true
 
   - type: textarea
-    id: additional-info
+    id: technical-additional-info
     attributes:
       label: "Additional Information"
       placeholder: "Provide any additional information if necessary."
