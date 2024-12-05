@@ -3,7 +3,7 @@ body:
   - type: input
     id: source
     attributes:
-      label: SProvide the source of the question
+      label: "Source of the question:"
       placeholder: "'Company Name', 'LeetCode', etc."
     validations:
       required: true
