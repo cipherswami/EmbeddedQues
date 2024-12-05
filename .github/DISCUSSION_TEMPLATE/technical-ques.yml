@@ -4,10 +4,9 @@ body:
     id: technical-source
     attributes:
       label: "Source of the question"
-      description: "Example: Company Name, LeetCode, etc."
-      placeholder: Enter 'NA' if not known
+      placeholder: Company Name, LeetCode, etc.
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: technical-additional-info
