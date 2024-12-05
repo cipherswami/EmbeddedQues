@@ -1,0 +1,58 @@
+title: "Submit Your Technical Interview Question"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Submit Your Technical Interview Question
+        Please fill out the details below to contribute a technical interview question. Ensure all required fields are completed.
+
+  - type: input
+    id: question
+    attributes:
+      label: Question
+      description: "Enter the full text of the technical question."
+      placeholder: "Type your question here..."
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: "Provide the source or reference for this question (e.g., book name, website, personal experience)."
+      placeholder: "E.g., 'LeetCode', 'Cracking the Coding Interview', etc."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty Level
+      description: "Select the difficulty level of this question."
+      options:
+        - Easy
+        - Medium
+        - Hard
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: "Provide any additional information, hints, or context for the question if necessary."
+      placeholder: "Add hints, expected output, or use case scenarios here..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    attributes:
+      label: Tags
+      description: "Select tags that categorize this question (optional)."
+      options:
+        - label: Algorithms
+        - label: Data Structures
+        - label: System Design
+        - label: Coding
+        - label: Problem Solving
+        - label: Other
