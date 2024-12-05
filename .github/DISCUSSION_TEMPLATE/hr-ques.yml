@@ -13,6 +13,6 @@ body:
     id: additional-info
     attributes:
       label: "Additional Information"
-      placeholder: "Provide any additional information if necessary."
+      placeholder: "Provide any additional information or context (optional)."
     validations:
       required: false
