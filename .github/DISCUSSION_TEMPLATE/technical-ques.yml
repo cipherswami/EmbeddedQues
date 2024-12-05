@@ -1,5 +1,7 @@
-title: "Enter your question here..."
 body:
+  - text: "Enter your discussion title here"
+    label: title
+
   - type: input
     id: technical-source
     attributes:
