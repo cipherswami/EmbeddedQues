@@ -3,9 +3,8 @@ body:
   - type: input
     id: source
     attributes:
-      label: Source
-      description: "Provide the source of the question."
-      placeholder: "E.g., 'Company name', 'LeetCode', etc."
+      label: SProvide the source of the question
+      placeholder: "'Company Name', 'LeetCode', etc."
     validations:
       required: true
 
