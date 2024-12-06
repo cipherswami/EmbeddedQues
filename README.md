@@ -1,5 +1,5 @@
 # Welcome to SysQues!  
-A platform to share resources, discuss interview questions, and expand knowledge on embedded systems, firmware, and kernel programming.  
+A platform to share resources, discuss interview questions, and expand knowledge on systems software, embedded software, firmware, and kernel programming.  
 
 Join the conversation on [SysQues Discussions](https://github.com/cipherswami/SysQues/discussions)!
 
