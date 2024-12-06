@@ -1,9 +1,9 @@
 title: ""
 body:
   - type: markdown
-    id: technical-title
     attributes:
-      value: "Enter your question above in the title..."
+      value: |
+        Enter your question above in the title...
   - type: input
     id: technical-source
     attributes:
