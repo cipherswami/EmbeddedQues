@@ -2,7 +2,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Enter your question above in the title
+        ### Enter your question above in the title ↑
   - type: input
     id: technical-source
     attributes:
