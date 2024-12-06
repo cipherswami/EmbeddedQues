@@ -1,5 +1,8 @@
-title: "Enter your question here..."
 body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Enter your question above in the title
   - type: input
     id: hr-source
     attributes:
