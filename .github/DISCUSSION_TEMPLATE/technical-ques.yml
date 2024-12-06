@@ -1,13 +1,16 @@
-title: "Enter your question here..."
+title: ""
 body:
+  - type: markdown
+    id: technical-title
+    attributes:
+      value: "Enter your question above in the title..."
   - type: input
     id: technical-source
     attributes:
       label: "Source of the question"
-      placeholder: Company Name, LeetCode, etc.
+      placeholder: "Company Name, LeetCode, etc."
     validations:
       required: false
-
   - type: textarea
     id: technical-additional-info
     attributes:
