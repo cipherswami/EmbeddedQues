@@ -1,7 +1,7 @@
-# Welcome to EmbeddedQues!  
+# Welcome to SysQues!  
 A platform to share resources, discuss interview questions, and expand knowledge on embedded systems, firmware, and kernel programming.  
 
-Join the conversation on [EmbeddedQues Discussions](https://github.com/cipherswami/EmbeddedQues/discussions)!
+Join the conversation on [SysQues Discussions](https://github.com/cipherswami/SysQues/discussions)!
 
 ## Categories of discussions  
 1. **General Q&A**: For open queries (Non-Interview Questions).  
@@ -12,7 +12,7 @@ Join the conversation on [EmbeddedQues Discussions](https://github.com/cipherswa
    - *Example*: “Tell us about a challenging project you worked on and how you handled it.”
 4. **Resources**: Share tutorials, guides, tools, and learning resources for embedded systems.  
    - *Example*: “Guide to ARM Cortex-M architecture.”
-5. **Suggestions**: Provide feedback, improvement ideas, or feature suggestions for EmbeddedQues.   
+5. **Suggestions**: Provide feedback, improvement ideas, or feature suggestions for SysQues.   
 
 ## Guidelines:
 1. **Be respectful**: Treat all members with respect and contribute positively to the community.
